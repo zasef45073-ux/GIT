@@ -1,2 +1,2 @@
-print('hi!!!hello~~!')
-print("how are you?!")
+print('hihello~~!')
+print("how are you????")
